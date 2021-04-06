@@ -13,6 +13,7 @@
 4. If you use linux or mac to run these tests make sure you give rights (sudo chmod 777) tot he drivers folder:$\JaspersoftAutomationLocal\Drivers
 
 
+
 # Instructions to run the tests
 
 1. Clone the repo
